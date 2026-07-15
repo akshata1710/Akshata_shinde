@@ -175,7 +175,7 @@ A passionate **Software Engineer** with **4+ years** of experience building scal
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shindeakshata513&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=akshata1710&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 **⭐ If you find my work interesting, feel free to star my repositories!**
