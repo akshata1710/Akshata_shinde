@@ -4,7 +4,7 @@ A passionate **Software Engineer** with **4+ years** of experience building scal
 
 ## 🎯 About Me
 
-- 🚀 Software Engineer at **Airbnb** | Backend & Microservices Specialist
+- 🚀 Software Engineer at **Airbnb** | Backend & Microservices
 - 🎓 **M.S. Computer Science** @ Pace University, Seidenberg School (GPA: 3.86)
 - 💡 Expertise: **Python, Java, FastAPI, Spring Boot, AWS, Kubernetes, PostgreSQL**
 - 🤖 Passionate about: **System Design, Microservices, AI/LLM Integration, Cloud Architecture**
